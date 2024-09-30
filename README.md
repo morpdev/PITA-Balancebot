@@ -22,12 +22,16 @@ For turning, the robot doesn't need to tilt. Instead, we control the speed of ea
 - DC Motors with gearbox
 - HC-06 Bluetooth module
 
+## Initial Test Run
+
+![Initial Test Run Video](assets/initial-test-run.gif)
+
 ## Images
 
 ### Bot overview
 
 <div>
-    <img src="images/overview.jpg" alt="Bot overview" width="600" />
+    <img src="assets/overview.jpg" alt="Bot overview" width="600" />
     <p><em>Figure 1. Bot overview (at development time)</em></p>
 </div>
 
@@ -35,14 +39,14 @@ For turning, the robot doesn't need to tilt. Instead, we control the speed of ea
 
 <div>
     <div>
-        <img src="images/app-01.png" alt="Remote control app" width="200" />
-        <img src="images/app-02.png" alt="Remote control app" width="200" />
-        <img src="images/app-03.png" alt="Remote control app" width="200" />
+        <img src="assets/app-01.png" alt="Remote control app" width="200" />
+        <img src="assets/app-02.png" alt="Remote control app" width="200" />
+        <img src="assets/app-03.png" alt="Remote control app" width="200" />
     </div>
     <div>
-        <img src="images/app-04.png" alt="Remote control app" width="200" />
-        <img src="images/app-05.png" alt="Remote control app" width="200" />
-        <img src="images/app-06.png" alt="Remote control app" width="200" />
+        <img src="assets/app-04.png" alt="Remote control app" width="200" />
+        <img src="assets/app-05.png" alt="Remote control app" width="200" />
+        <img src="assets/app-06.png" alt="Remote control app" width="200" />
     </div>
     <p><em>Figure 2. Remote control application</em></p>
 </div>
