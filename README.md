@@ -13,6 +13,10 @@ To make the robot move forward or backward, we change the balance point of the r
 
 For turning, the robot doesn't need to tilt. Instead, we control the speed of each wheel. To turn left, we slow down the left wheel and to turn right, we slow down the right wheel. This difference in wheel speeds causes the robot to rotate in the desired direction.
 
+### Note
+
+To achieve better results, use stepper motors or DC motors with high-quality encoders. Controlling DC motors without any feedback, such as encoders, and relying solely on angle data can be challenging.
+
 ## Parts Used
 
 - Aluminium plates and screw rods (for the frame)
